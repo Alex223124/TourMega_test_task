@@ -1,0 +1,2 @@
+class ImportTax < Tax
+end

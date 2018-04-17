@@ -1,0 +1,2 @@
+class StandardTax < Tax
+end
